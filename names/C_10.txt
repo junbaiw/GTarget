@@ -1,0 +1,16 @@
+ID
+axl2      
+cln1      
+cln2      
+crh1      
+mcd1      
+mnn1      
+msh2      
+msh6      
+pol30     
+pry2      
+rad51     
+rnr3      
+tos4      
+yol007c   
+yox1      

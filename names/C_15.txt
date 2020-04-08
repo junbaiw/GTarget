@@ -1,0 +1,7 @@
+ID
+ash1      
+hsp150    
+pir1      
+pir3      
+pst1      
+ypl158c   

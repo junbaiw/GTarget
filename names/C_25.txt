@@ -1,0 +1,5 @@
+ID
+bsc1      
+mfa1      
+prm7      
+spi1      

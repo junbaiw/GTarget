@@ -1,0 +1,12 @@
+ID
+alg7      
+cis3      
+cwp2      
+exg1      
+gas3      
+sim1      
+srl1      
+tao3      
+tub2      
+wsc2      
+yhp1   

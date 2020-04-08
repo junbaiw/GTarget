@@ -1,0 +1,16 @@
+ID
+arn1      
+atf2      
+car2      
+cyb5      
+erg2      
+erg3      
+erg5      
+fit3      
+ftr1      
+lys9      
+pdr5      
+pho84     
+pma1      
+pma2      
+sit1      
